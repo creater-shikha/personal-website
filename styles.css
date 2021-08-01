@@ -1,0 +1,125 @@
+body{color: #40514E;
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+}
+h1{font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66bfbf;
+
+    
+}
+h2{font-size: 2rem;
+    font-family: 'Merienda One', cursive;
+    color: #66bfbf;
+    font-weight: normal;
+    padding-bottom: 10px;
+    
+}
+h3{
+    font-family: 'Merienda One', cursive;
+    color: #66bfbf;
+}
+.top_container{
+    position: relative;
+    padding-top: 100px;
+   
+    background-color: #DFEEEA;
+   
+}
+.middle-container{
+    margin: 100px 0;
+}
+.bottom-container{
+   
+    background-color: #66BFBF;
+    padding: 50px 0 20px 0;
+    
+}
+hr{width: 7%;
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    margin: 100px auto;
+    
+}
+.web{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.cod{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.profile >img{
+width: 20%;  
+}
+.small-discription{
+    width:30%;
+    margin: auto;
+}
+
+.skill-row{
+    text-align: left;
+   
+    width: 50%;
+   margin: 100px auto 100px auto;
+}
+.top-cloud{position:absolute;
+    left:30px;
+    top:10px;
+    height: 300px;
+}
+.bottom-cloud{
+    position: absolute;
+    bottom: 200px;
+    right: 50px;
+    height: 300px;
+}
+a{text-decoration: none;
+    color: #11999E;
+  margin: 10px 40px;
+
+}
+a:hover{
+    color: #EAF6F6;
+}
+p{ 
+    color: #40514E;
+    line-height: 2;
+}
+.message{
+    width: 40%;
+    margin: 40px auto 60px auto;
+}
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Merienda One', cursive;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.copy-right{
+    color: #EAF6F6;
+    font-size: .75rem;
+    padding: 20px 0;
+}
